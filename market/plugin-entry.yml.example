@@ -1,0 +1,7 @@
+# Save as data/plugins/WaterFountain-Jack__dsh-study-note.yml in awesome-dsh-plugin.
+url: https://github.com/WaterFountain-Jack/dsh-study-note
+name: WaterFountain-Jack/dsh-study-note
+category: docs
+description:
+  en: Saves opt-in conversations as structured study notes with a maintained Markdown index.
+  zh: 按对话开启学习笔记，自动整理问答并维护 Markdown 索引。

@@ -1,0 +1,12 @@
+- insert:
+    - id: study-note
+      name: dsh-study-note
+      config:
+        notesDir: '~/.dsh/study-notes'
+        debounceMs: 1500
+        timeoutMs: 60000
+        maxInputBytes: 98304
+        maxOutputBytes: 65536
+        maxOutputTokens: 4000
+        recentSections: 6
+        maxMessageChars: 12000

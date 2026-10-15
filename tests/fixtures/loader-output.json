@@ -1,0 +1,19 @@
+{
+  "command": "/note",
+  "disabledByDefault": true,
+  "backgroundRecorded": true,
+  "followupMerged": true,
+  "topic": "Cordis",
+  "headings": [
+    "# Cordis 学习",
+    "## callback 与函数调用",
+    "### ❓ 问题",
+    "### ✅ 一句话结论",
+    "### 💡 解释",
+    "### 🔑 公式 / 代码 / 例子",
+    "### 我的理解（待自己复述）",
+    "### 关联 / 遗留疑问"
+  ],
+  "indexRows": ["- [Cordis 学习](<note-path>) — 学习 callback、effect 和插件运行机制。"],
+  "auxiliaryCalls": 2
+}
